@@ -1,6 +1,7 @@
 <svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 780 400">
     <title>box_plot_1</title>
     <style>
+         @import url('https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible'); 
         tspan {
             white-space: pre;
         }
@@ -16,15 +17,15 @@
         }
         .s2 {
             fill: #000000;
-            stroke: #00c3ff;
+            stroke: #da4f40;
             stroke-dasharray: 4;
         }
         .s3 {
             fill: #000000;
-            stroke: #00c3ff;
+            stroke: #da4f40;
         }
         .s4 {
-            fill: #00c3ff;
+            fill: #da4f40;
         }
         .s5 {
             fill: #000000;
@@ -32,39 +33,39 @@
         }
         .s6 {
             fill: #000000;
-            stroke: #189af6;
+            stroke: #1f5592;
             stroke-dasharray: 4;
         }
         .s7 {
             fill: #000000;
-            stroke: #189af6;
+            stroke: #1f5592;
         }
         .s8 {
-            fill: #189af6;
+            fill: #1f5592;
         }
         .s9 {
             fill: #ffffff;
-            stroke: #189af6;
+            stroke: #1f5592;
         }
         .s10 {
             fill: #000000;
-            stroke: #125389;
+            stroke: #f7ce65;
             stroke-dasharray: 4;
         }
         .s11 {
             fill: #000000;
-            stroke: #125389;
+            stroke: #f7ce65;
         }
         .s12 {
-            fill: #125389;
+            fill: #f7ce65;
         }
         .s13 {
             fill: #ffffff;
-            stroke: #125389;
+            stroke: #f7ce65;
         }
         .s14 {
             fill: #000000;
-            stroke: #125389;
+            stroke: #f7ce65;
             stroke-width: 2;
         }
     </style>
