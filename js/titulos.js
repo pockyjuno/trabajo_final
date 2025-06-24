@@ -11,12 +11,12 @@ function desviacionEstandar(criterio) {
 async function datos(criterio) {
     var seleccion = [];
     var notas = [];
-    const consulta = await fetch("https://api.myjson.online/v1/records/37160c1e-48e9-4c12-b2c6-41b5165f72f9");
+    const consulta = await fetch("https://raw.githubusercontent.com/pockyjuno/trabajo_final/refs/heads/main/data.json.json");
     const data = await consulta.json();
     console.log("Lo que sigue son todos los datos:");
     console.log(data);
 
-    data.data.forEach((d) => {
+    data.data.titulo.forEach((d) => {
         if (d.titulo_profesional == criterio) {
             seleccion.push(d);
         }
